@@ -1,1 +1,1 @@
-a video chat app using WEBRTC
+this is a video chat app using WEBRTC and javascript 
